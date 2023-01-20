@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:  #1F1F1F;
+}
+.login_window
+{
+	float: left;
+	width: 1000px;
+	height: 500px;
+	margin: 200px 450px;
+	background-color: #1F1F1F;
+	box-shadow: 1px 1px 30px 1px darkgoldenrod;
+}
+
+input
+{
+	font-size: 20px;
+	width: 450px;
+	
+}
+
+.un
+{
+	float: left;
+	margin: 80px 0px 20px 150px;
+	color: darkgoldenrod;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Tahoma";
+	
+}
+
+.un input
+{
+	margin-left: 8px;
+	box-shadow: 0.1px 0.1px 5px 1px darkgoldenrod;
+	background-color: #1F1F1F;
+	border: none;
+	color: darkgoldenrod;
+}
+
+.psw
+{
+	float: left;
+	margin: 80px 0px 20px 150px;
+	color: darkgoldenrod;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Tahoma";
+
+}
+
+.psw input 
+{
+	
+	margin-left: 15px;
+	box-shadow: 0.1px 0.1px 5px 1px darkgoldenrod;
+	background-color: #1F1F1F;
+	border: none;
+	color: darkgoldenrod;
+}
+
+.frgtpsw
+{
+	float: left;
+	margin: 10px 0px 10px 340px;
+	font-size: 20px;
+	color: darkgoldenrod;
+	font-family: "Tahoma";
+}
+
+.frgtpsw:hover
+{
+	cursor: pointer;
+	text-shadow: 0.1px 0.1px 3px darkgoldenrod;
+}
+
+.lgn
+{
+	float: left;
+	margin : 50px 0px 10px 250px;
+	
+	
+}
+.lgn input
+{
+	color: darkgoldenrod;
+	background-color: #1F1F1F;
+	border: none;
+	font-family: "Tahoma";
+	font-weight: bold;
+}
+.otp input
+
+{
+	color: darkgoldenrod;
+	background-color: #1F1F1F;
+	border: none;
+	font-family: "Tahoma";
+	font-weight: bold;
+
+}
+
+.lgn:hover input
+{
+	box-shadow: 0.1px 0.1px 10px 2px lightgreen;
+	cursor: pointer;
+}
+.otp
+{
+    float: left;
+	margin : 20px 0px 10px 250px;
+}
+
+.otp:hover input
+{
+	box-shadow: 0.1px 0.1px 10px 2px pink;
+	cursor: pointer;
+}
+.or
+{
+	float: left;
+	color: darkgoldenrod;
+	margin: 20px 0px 0px 465px;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: "Tahoma";
+	
+}
+
+
+
+
+
